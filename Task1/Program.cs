@@ -19,7 +19,7 @@ if (!isParsed1)
     return -1;
 }
 
-int number = numberDegree(n, a);
+int number = numberDegree(n, a); 
 Console.WriteLine(number);
 
 
