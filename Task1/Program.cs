@@ -23,7 +23,7 @@ int number = numberDegree(n, a);
 Console.WriteLine(number);
 
 
-int numberDegree(int n, int a)  // ЧТо он от меня хочет??
+int numberDegree( int n, int a)  // ЧТо он от меня хочет??
 {
     int number = 0;
     for (int i = 1; n <= a; i++;)
